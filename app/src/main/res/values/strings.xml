@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="item_name">Coffee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_hint">Name</string>
+    <string name="submit">Add to cart</string>
+    <string name="no_of_items">No. of items: </string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="no_of_item_input">0</string>
+    <string name="summary_title">Order Summary</string>
+    <string name="summary">You have ordered %1$d cups of %2$s</string>
+    <string name="salutation">Welcome %s, please place your order.</string>
+    <string name="check_box_1">Whipped Cream</string>
+    <string name="check_box_2">Chocolate</string>
+    <string name="place_order">Place Order</string>
+    <string name="thank_you">Thank You :)</string>
+    <string name="new_order">New Order</string>
+    <string name="edit_order">Edit Order</string>
+    <string name="login_success">Login Successful</string>
+    <string name="login_incorrect">Either username or password empty </string>
+    <string name="ok">OK!</string>
+    <string name="alert">Alert!</string>
+    <string name="minimum_coffee">Minimum order quantity is 2.</string>
+    <string name="order_progress_content">Order is being placed ...</string>
+    <string name="order_progress_title">Please wait</string>
+    <string name="order_success">Order placed successfully</string>
+    <string name="recharge_success">Recharge successful</string>
+    <string name="enter_valid_amt">Enter Valid Amount</string>
+    <string name="enter_number">Enter a number</string>
+    <string-array name="menuitem_array">
+        <item>Coffee</item>
+        <item>Cappuccino</item>
+        <item>Latte</item>
+        <item>Espresso</item>
+    </string-array>
+    <string name="login_screen">Login</string>
+</resources>
